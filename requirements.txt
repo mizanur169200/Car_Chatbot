@@ -8,3 +8,10 @@ langchain-google-genai
 jinja2
 psycopg2
 python-multipart
+chromadb
+fitz
+transformers
+torch
+sentence-transformers
+google.generativeai
+langchain-google-genai
